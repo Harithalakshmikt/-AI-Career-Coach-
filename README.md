@@ -26,7 +26,7 @@ An AI-powered resume-job matcher that helps you analyze your resume, compare it 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Harithalakshmikt/AI_Career_Coach.git
+git clone https://github.com/Harithalakshmikt/AI_Career_Coa.git
 cd AI_Career_Coach
 
 # Create and activate conda environment
